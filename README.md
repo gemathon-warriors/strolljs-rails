@@ -1,10 +1,11 @@
-# Strolljs::Rails
+# Strolljs-Rails
 
 A collection of CSS list scroll effects. Works in browsers with support for CSS 3D transforms including a special touch-enabled mode for iOS & Android 4.x.
 
-[https://github.com/hakimel/stroll.js](https://github.com/hakimel/stroll.js)
+#### [https://github.com/hakimel/stroll.js](https://github.com/hakimel/stroll.js)
 
-[See Hakim's Demo page](http://lab.hakim.se/scroll-effects/)
+### Demo App For [strolljs-rails](http://strolljs-rails.herokuapp.com/)
+
 
 ## Installation
 
